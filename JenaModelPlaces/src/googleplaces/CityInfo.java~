@@ -4,7 +4,6 @@ import java.util.List;
 
 import JenaUtils.DumpString;
 
-
 public class CityInfo {
 	
 	private List<component> results;
