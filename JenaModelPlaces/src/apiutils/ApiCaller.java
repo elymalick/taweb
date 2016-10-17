@@ -25,6 +25,7 @@ public abstract class ApiCaller {
 		String line = null;
 		try {
 			while ((line = reader.readLine()) != null) {
+				
 				result += line + "\n";
 			}
 			reader.close();
